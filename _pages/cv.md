@@ -3,11 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
-{% include base_path %}
+<embed src="https://yangrui9501.github.io/files/YangRui_Resume_2024.pdf" width="100%" height="500px"/>
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
