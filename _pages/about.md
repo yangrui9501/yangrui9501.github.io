@@ -13,7 +13,9 @@ Hi there! I am Yang-Rui Li, a PhD student in Department of Aeronautics and Astro
 
 In addition to my research, I relax by exercising, which helps me recharge and better face various challenges. My activities include fitness training and playing badminton.
 
-<!-- 放一些裝B的圖 -->
+<img src="images/deadlift_150kg.jpg" width="180">
+<img src="images/badminton.jpg" width="180"> 
+
 
 <br/>
 
