@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Development of a Full Orientation Flight Robotics: Dynamics Modeling, Analysis, and Control Design"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper XXX'
