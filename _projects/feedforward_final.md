@@ -3,7 +3,7 @@ title: "Real-Time Parameter Estimation and Prediction-Based Control for Aircraft
 collection: projects
 type: "Graduate Course Project"
 # permalink: /projects_test/2014-spring-teaching-1
-venue: "National Cheng Kung University (NCKU), ME 8601 Adaptive Control"
+venue: "National Cheng Kung University (NCKU), ME 8602 Feedforward Control"
 date: 2021-06-03
 location: "Tainan, Taiwan"
 ---
