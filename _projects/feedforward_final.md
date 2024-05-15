@@ -8,6 +8,6 @@ date: 2021-06-24
 location: "Tainan, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This research report propose a feedback-feedforward control architecture for a 3-DoF nonlinear quadrotor model which the relative degree is not well-defined and the system subject to the parameter uncertainties. The simulation results reveals that the proposed controller is capable of tracking the desired trajectory in the presence of modeling uncertainties.
 
 <embed src="https://yangrui9501.github.io/files/feedforward_final.pdf" width="100%" height="500px"/>

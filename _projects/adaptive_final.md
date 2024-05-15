@@ -8,6 +8,6 @@ date: 2021-06-03
 location: "Tainan, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This project utilizes the recursive integral-operator-based least-squares (RLS) algorithm to estimate the system parameters for a aircraft pitch dynamics (textbook example). The simulation results show that the proposed RLS estimator enable to estimate the system parameters. By introduced the predicted states as the feedback states, the control performance is further improved.
 
 <embed src="https://yangrui9501.github.io/files/adaptive_final.pdf" width="100%" height="500px"/>

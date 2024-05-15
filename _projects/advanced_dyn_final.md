@@ -8,6 +8,6 @@ date: 2020-06-29
 location: "Tainan, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This project considers the attitude control problem of a satellite using a single-axis reaction wheel. The following report redone the paper listed in the references.
 
 <embed src="https://yangrui9501.github.io/files/advanced_dyn_final.pdf" width="100%" height="500px"/>

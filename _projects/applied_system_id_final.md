@@ -8,6 +8,6 @@ date: 2021-06-22
 location: "Tainan, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This project uses the first-order integral method the identify the system parameter for a nonlinear quadrotor model. The simulation result indicates that the presented method can well identify the moment of inertia provide that the thrust model of the propellers is known.
 
 <embed src="https://yangrui9501.github.io/files/applied_system_id_final.pdf" width="100%" height="500px"/>
