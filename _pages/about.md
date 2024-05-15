@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Yang-Rui Li, a PhD student in Department of Aeronautics and Astronautics (DAA), National Cheng Kung University (NCKU), Tainan, Taiwan, in 2021 spring. I am a member of the Intelligent Embedded Control (IEC) Laboratory under [Chao-Chung Peng](https://scholar.google.com/citations?hl=en&user=YzN8zoUAAAAJ). My research focuses on the flight control system development of the multi-rotor aerial vehicles, including dynamics modeling, analysis, identification, navigation/sensor fusion, and controller design/implementation.
+Hi there! I am Yang-Rui Li, a PhD student in Department of Aeronautics and Astronautics (DAA), National Cheng Kung University (NCKU), Tainan, Taiwan, since spring 2021. I am a member of the Intelligent Embedded Control (IEC) Laboratory under the supervision of [Chao-Chung Peng](https://scholar.google.com/citations?hl=en&user=YzN8zoUAAAAJ). My research focuses on the flight control system development of the multi-rotor aerial vehicles, including dynamics modeling, analysis, identification, navigation/sensor fusion, and controller design/implementation.
 
 <!-- 放一些裝B的圖 ahrs, navigation, ..., control--> 
+
+During my master's program, I primarily focused on the robust control law design for the nonlinear mechanical systems. Including the motion control of the DC motor systems, single-axis reaction wheel positioning, and spacecraft attitude control via multiple reaction wheels. My master thesis can be found in [here](https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1).
 
 In addition to my research, I relax by exercising, which helps me recharge and better face various challenges. My activities include fitness training and playing badminton.
 
@@ -20,13 +22,15 @@ In addition to my research, I relax by exercising, which helps me recharge and b
 <br/>
 
 Education
+
 ======
+
 * **National Cheng Kung University**, Tainan, Taiwan\
 Ph.D. in Department of Aeronautics and Astronautics, &nbsp;*Feb 2021 - Feb 2025 (expected)*
 * **National Cheng Kung University**, Tainan, Taiwan\
 M.S. in Department of Aeronautics and Astronautics, &nbsp;*Sep 2019 - Jan 2021*
-<!-- * **National Cheng Kung University**, Tainan, Taiwan\
-B.S. in Aeronautics and Astronautics, &nbsp;*Sep 2015 - Jun 2019* -->
+* **Tamkang University**, New Taipei City, Taiwan\
+B.S. in Department of Aerospace Engineering, &nbsp;*Sep 2012 - Jun 2019*
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

@@ -2,7 +2,7 @@
 title: "Development of a Full Orientation Flight Robotics: Dynamics Modeling, Analysis, and Control Design"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper XXX'
+excerpt: 'This study propose a novel flight robotics which is capable of achieving the arbitrary flight pose in six-degrees-of-freedom space. It uses multiple propellers to generate control force and torque. The corresponding control allocation algorithm is proposed in the sense of minimal energy consumption. The simulation results reveal the flight feasibility of the proposed novel flight robotics.'
 date: 2023-10-04
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/10271397/'
