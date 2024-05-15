@@ -22,7 +22,6 @@ In addition to my research, I relax by exercising, which helps me recharge and b
 <br/>
 
 Education
-
 ======
 
 * **National Cheng Kung University**, Tainan, Taiwan\
