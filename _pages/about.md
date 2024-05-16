@@ -9,8 +9,18 @@ redirect_from:
 
 Hi there! I am Yang-Rui Li, a PhD student in Department of Aeronautics and Astronautics (DAA), National Cheng Kung University (NCKU), Tainan, Taiwan, since spring 2021. I am a member of the Intelligent Embedded Control (IEC) Laboratory under the supervision of [Chao-Chung Peng](https://scholar.google.com/citations?hl=en&user=YzN8zoUAAAAJ). My research focuses on the flight control system development of the multi-rotor aerial vehicles, including dynamics modeling, analysis, identification, navigation/sensor fusion, and controller design/implementation.
 
-<!-- 放一些裝B的圖 ahrs, navigation, ..., control--> 
+<div style="text-align: center; width: 560px; height: 315px;">
+  <iframe width="861" 
+  height="484"
+  src="https://www.youtube.com/embed/RNEsbkcr4hk" 
+  title="0216 5891A Quadrotor-200 Position Control (Vicon)" 
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen></iframe>
+</div>
 
+\
 During my master's program, I primarily focused on the robust control law design for the nonlinear mechanical systems. Including the motion control of the DC motor systems, single-axis reaction wheel positioning, and spacecraft attitude control via multiple reaction wheels. My master thesis can be found in [here](https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1), the demonstration video in [here](/publications/master_thesis/).
 
 In addition to my research, I relax by exercising, which helps me recharge and better face various challenges. My activities include fitness training and playing badminton.
