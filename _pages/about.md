@@ -11,7 +11,7 @@ Hi there! I am Yang-Rui Li, a PhD student in Department of Aeronautics and Astro
 
 <!-- 放一些裝B的圖 ahrs, navigation, ..., control--> 
 
-During my master's program, I primarily focused on the robust control law design for the nonlinear mechanical systems. Including the motion control of the DC motor systems, single-axis reaction wheel positioning, and spacecraft attitude control via multiple reaction wheels. My master thesis can be found in [here](https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1).
+During my master's program, I primarily focused on the robust control law design for the nonlinear mechanical systems. Including the motion control of the DC motor systems, single-axis reaction wheel positioning, and spacecraft attitude control via multiple reaction wheels. My master thesis can be found in [here](https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1), the demonstration video in [here](yangrui9501.github.io/projects/master_thesis/).
 
 In addition to my research, I relax by exercising, which helps me recharge and better face various challenges. My activities include fitness training and playing badminton.
 
