@@ -3,7 +3,7 @@ title: "Robust Second-Order Sliding Mode Control Law Design and Realization for 
 collection: publications
 type: "Master Thesis"
 # permalink: /projects_test/2014-spring-teaching-1
-venue: "National Cheng Kung University, Department of Aeronautics and Astronautics"
+venue: "National Cheng Kung University, Department of Aeronautics and Astronautics, Master Thesis"
 date: 2021-01-15
 paperurl: 'https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
