@@ -1,15 +1,15 @@
 ---
 title: "Robust Second-Order Sliding Mode Control Law Design and Realization for Nonlinear Mechanical Systems"
-collection: projects
+collection: publications
 type: "Master Thesis"
 # permalink: /projects_test/2014-spring-teaching-1
-venue: "National Cheng Kung University (NCKU), Master Thesis (Instructor: Chao-Chung Peng)"
+venue: "National Cheng Kung University, Department of Aeronautics and Astronautics"
 date: 2021-01-15
-location: "Tainan, Taiwan"
 paperurl: 'https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The master thesis focuses on the robust control law design for the nonlinear mechanical systems. Including the motion control of the DC motor systems, single-axis reaction wheel positioning, and spacecraft attitude control via multiple reaction wheels. My master thesis can be found in [here](https://thesis.lib.ncku.edu.tw/thesis/detail/1bedc1f055d88d5fba37764b81eb6d6a/?seq=1).
+The master thesis focuses on the robust control law design for the nonlinear mechanical systems. Including the motion control of the DC motor systems, single-axis reaction wheel positioning, and spacecraft attitude control via multiple reaction wheels.
 
 ## DC Motor Positioning Control
 
