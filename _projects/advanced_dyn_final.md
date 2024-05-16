@@ -3,7 +3,7 @@ title: "Detumbling of a rigid spacecraft via torque wheel assisted gyroscopic mo
 collection: projects
 type: "Graduate Course Project"
 # permalink: /projects_test/2014-spring-teaching-1
-venue: "National Cheng Kung University (NCKU), AA 7316 Advanced Dynamics (Instructor: Lin, Yiing-Yuh)"
+venue: "National Cheng Kung University, AA 7316 Advanced Dynamics (Instructor: Lin, Yiing-Yuh)"
 date: 2020-06-29
 location: "Tainan, Taiwan"
 ---

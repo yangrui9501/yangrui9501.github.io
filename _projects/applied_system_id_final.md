@@ -3,7 +3,7 @@ title: "System Parameter Identification of Quadrotor"
 collection: projects
 type: "Graduate Course Project"
 # permalink: /projects_test/2014-spring-teaching-1
-venue: "National Cheng Kung University (NCKU), ES 7140 Applied System Identification (Instructor: Jer‑Nan Juang)"
+venue: "National Cheng Kung University, ES 7140 Applied System Identification (Instructor: Jer‑Nan Juang)"
 date: 2021-06-22
 location: "Tainan, Taiwan"
 ---
