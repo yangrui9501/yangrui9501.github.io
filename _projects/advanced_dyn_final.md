@@ -10,4 +10,6 @@ location: "Tainan, Taiwan"
 
 This project considers the attitude control problem of a satellite using a single-axis reaction wheel. The following report redone the paper listed in the references.
 
-<embed src="https://yangrui9501.github.io/files/advanced_dyn_final.pdf" width="100%" height="500px"/>
+If the embedded PDF below does not load, [download it here.](/files/advanced_dyn_final.pdf)
+
+<embed src="/files/advanced_dyn_final.pdf" width="100%" height="500px"/>

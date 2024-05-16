@@ -12,7 +12,8 @@ This research report propose a feedback-feedforward control architecture for a 3
 
 <!-- <embed src="/files/feedforward_final.pdf" width="100%" height="500px"/> -->
 
-[Download](/files/feedforward_final.pdf)
+If the embedded PDF below does not load, [download it here.](/files/feedforward_final.pdf)
 
-<iframe src="/files/feedforward_final.pdf" width="100%" height="600px">
-</iframe>
+<!-- <iframe src="/files/feedforward_final.pdf" width="100%" height="600px">
+</iframe> -->
+<embed src="/files/feedforward_final.pdf" width="100%" height="500px"/>

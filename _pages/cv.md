@@ -7,7 +7,9 @@ author_profile: true
 #   - /resume
 ---
 
-<embed src="https://yangrui9501.github.io/files/YangRui_Resume_2024.pdf" width="100%" height="500px"/>
+If the embedded PDF below does not load, [download it here.](/files/YangRui_Resume_2024.pdf)
+
+<embed src="/files/YangRui_Resume_2024.pdf" width="100%" height="500px"/>
 
 <!-- {% include base_path %}
 
