@@ -35,7 +35,7 @@ Education
 ======
 
 * **National Cheng Kung University**, Tainan, Taiwan\
-Ph.D. in Department of Aeronautics and Astronautics, &nbsp;*Feb 2021 - Feb 2025 (expected)*
+Ph.D. in Department of Aeronautics and Astronautics, &nbsp;*Feb 2021 - Jan 2026 (expected)*
 * **National Cheng Kung University**, Tainan, Taiwan\
 M.S. in Department of Aeronautics and Astronautics, &nbsp;*Sep 2019 - Jan 2021*
 * **Tamkang University**, New Taipei City, Taiwan\
