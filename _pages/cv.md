@@ -11,7 +11,8 @@ If the embedded PDF below does not load, [download it here.](/files/YangRui_Resu
 
 <!-- <iframe src="/files/YangRui_Resume_2024.pdf" width="100%" height="700px">
 </iframe> -->
-<object data="files/YangRui_Resume_2024.pdf" height="100%" width="100%"></object>
+<embed src="/files/YangRui_Resume_2024.pdf" type="application/pdf" width="100%" height="100%" />
+
 
 <!-- <embed src="/files/YangRui_Resume_2024.pdf" width="100%" height="500px"/> -->
 
