@@ -4,7 +4,7 @@ collection: projects
 type: "Industry Collaboration Research Project"
 # permalink: /projects_test/2014-spring-teaching-1
 venue: "China Steel Corporation, Dept. of Green Energy &
-System Integration Research & Development, National Cheng Kung University, Dept, of Aeronautics and Astronautics, Intelligent Embedded Control Laboratory"
+System Integration Research & Development, National Cheng Kung University, Dept. of Aeronautics and Astronautics, Intelligent Embedded Control Laboratory"
 date: 2023-12-22
 location: "Kaohsiung, Taiwan"
 ---
