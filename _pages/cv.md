@@ -9,7 +9,9 @@ author_profile: true
 
 If the embedded PDF below does not load, [download it here.](/files/YangRui_Resume_2024.pdf)
 
-<embed src="/files/YangRui_Resume_2024.pdf" width="100%" height="500px"/>
+<iframe src="/files/YangRui_Resume_2024.pdf" width="100%" height="700px">
+</iframe>
+<!-- <embed src="/files/YangRui_Resume_2024.pdf" width="100%" height="500px"/> -->
 
 <!-- {% include base_path %}
 
